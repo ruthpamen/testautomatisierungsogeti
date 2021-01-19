@@ -14,9 +14,11 @@ import org.json.simple.JSONArray;
 import java.util.Iterator;
 import java.util.concurrent.TimeUnit;
 
-/**
- *
+/*   API Test
+ *   @ author Ruth Pamen
+ *   Datum 19.01.2021
  */
+
 public class ApiTest {
     //Specify base URI
     Response resp = RestAssured.get("http://api.zippopotam.us/de/bw/stuttgart");

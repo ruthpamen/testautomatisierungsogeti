@@ -12,6 +12,11 @@ import org.testng.annotations.Test;
 import java.util.Iterator;
 
 
+/*   DataDrivenTest
+ *   @ author Ruth Pamen
+ *   Datum 19.01.2021
+ */
+
 public class DataDrivenTest {
 
 
